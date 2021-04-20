@@ -1,5 +1,3 @@
-### Hi there 👋
-
 https://waviot.gitlab.io/dc/
 
 <!--
