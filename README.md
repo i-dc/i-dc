@@ -1,6 +1,6 @@
-— :star: :memo: General information: https://waviot.gitlab.io/dc/
+— :star: General information: https://waviot.gitlab.io/dc/
 
-— Summary: I am an expert fullstack developer with 8 years of experience.
+— :memo: Summary: I am an expert fullstack developer with 8 years of experience.
 I have strong frontend knowledge ([Vue.js](https://github.com/vuejs/vue), [Vuetify](https://github.com/vuetifyjs/vuetify))
 and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and project management.
 
@@ -12,4 +12,4 @@ and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and pr
 
 — :books: Main education: [Moscow Institute of Physics and Technologies](https://mipt.ru/english/)
 
-— :earth_americas: Languages: :ru: Russian – native, :gb: English – Advanced (C1)
+— :earth_americas: Languages: :ru: russian – native, :gb: english – advanced (C1)
