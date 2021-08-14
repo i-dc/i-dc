@@ -1,4 +1,4 @@
-— :star: General information: https://i-dc.github.io/vcard/
+— :star: General information: https://i-dc.github.io/
 
 — :memo: Summary: I am an expert fullstack developer with 8 years of experience.
 I have strong frontend knowledge ([Vue.js](https://github.com/vuejs/vue), [Vuetify](https://github.com/vuetifyjs/vuetify))
