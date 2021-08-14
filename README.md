@@ -8,8 +8,6 @@ and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and pr
 
 — :gear: I'm currently improve skills in [Svelte](https://svelte.dev/), [SvelteKit](https://kit.svelte.dev/), [Vite](https://vitejs.dev/)
 
-— :hammer_and_wrench: Recent projects: [Salary Calculator](https://i-dc.github.io/)
-
 — :books: Main education: [Moscow Institute of Physics and Technologies](https://mipt.ru/english/)
 
 — :earth_americas: Languages: :ru: russian – native, :gb: english – advanced (C1)
