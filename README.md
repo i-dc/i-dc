@@ -2,9 +2,7 @@
 
 — :memo: Summary: I am an expert fullstack developer with 8 years of experience.
 I have strong frontend knowledge ([Vue.js](https://github.com/vuejs/vue), [Vuetify](https://github.com/vuetifyjs/vuetify))
-and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and project management.
-
-— :gear: I'm currently improve skills in [Svelte](https://svelte.dev/), [SvelteKit](https://kit.svelte.dev/), [Vite](https://vitejs.dev/)
+and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things), E-commerce and project management.
 
 — :books: Main education: [Moscow Institute of Physics and Technologies](https://mipt.ru/english/)
 
