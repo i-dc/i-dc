@@ -7,3 +7,5 @@ and experience in [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [E-co
 — :books: Main education: [Moscow Institute of Physics and Technologies](https://mipt.ru/english/)
 
 — :earth_americas: Languages: :ru: russian – native, :gb: english – advanced (C1)
+
+![](https://komarev.com/ghpvc/?username=i-dc)
